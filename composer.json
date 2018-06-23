@@ -1,0 +1,13 @@
+{
+  "name": "peter/codeception-skeleton",
+  "type": "project",
+  "require": {},
+  "require-dev": {
+    "codeception/codeception": "^2.4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  }
+}
